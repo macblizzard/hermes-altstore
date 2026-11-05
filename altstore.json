@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.35",
+          "buildVersion": "35",
+          "date": "2026-11-05T21:14:58Z",
+          "localizedDescription": "Tool cards open their real call details; decode the reasoning channel and retain reasoning after the answer.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v35/Hermes-1.35-b35.ipa",
+          "size": 686598,
+          "minOSVersion": "17.0",
+          "sha256": "f7b18ba7ccbeab5eb62845b165bd41bf492773f04d61a83d2350326c6abd0d74"
+        },
+        {
           "version": "1.33",
           "buildVersion": "33",
           "date": "2026-11-05T20:45:22Z",
