@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.39",
+          "buildVersion": "39",
+          "date": "2026-11-05T23:04:27Z",
+          "localizedDescription": "Last-opened bot moves to top with green indicator; keyboard opening scrolls to the latest message.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v39/Hermes-1.39-b39.ipa",
+          "size": 673646,
+          "minOSVersion": "17.0",
+          "sha256": "f23ca98f711404a13d94e904a362486d64aab182e277fb60bd00a4e899628343"
+        },
+        {
           "version": "1.36",
           "buildVersion": "36",
           "date": "2026-11-05T21:36:51Z",
