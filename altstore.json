@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.36",
+          "buildVersion": "36",
+          "date": "2026-11-05T21:36:51Z",
+          "localizedDescription": "Fix live replies disappearing after restarting or foregrounding the app: cancelling an observer no longer permanently ends the shared event feed. Regression tests cover repeated start and stop/start.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v36/Hermes-1.36-b36.ipa",
+          "size": 690587,
+          "minOSVersion": "17.0",
+          "sha256": "bd50649dd9d63f10fb25bcda7d9e6651f6704e776a545c7030752df3ff97611b"
+        },
+        {
           "version": "1.35",
           "buildVersion": "35",
           "date": "2026-11-05T21:24:14Z",
