@@ -26,8 +26,8 @@
         {
           "version": "1.35",
           "buildVersion": "35",
-          "date": "2026-11-05T21:14:58Z",
-          "localizedDescription": "Tool cards open their real call details; decode the reasoning channel and retain reasoning after the answer.",
+          "date": "2026-11-05T21:24:14Z",
+          "localizedDescription": "Tool cards now read the host projection's own fields: the card names the real tool, tapping opens the arguments (and the result for edit tools). Reasoning shows up and stays in the thread after the answer.",
           "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v35/Hermes-1.35-b35.ipa",
           "size": 686598,
           "minOSVersion": "17.0",
