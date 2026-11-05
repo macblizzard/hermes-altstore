@@ -1,0 +1,46 @@
+{
+  "name": "Hermes",
+  "identifier": "net.corvus.hermes.source",
+  "sourceURL": "https://raw.githubusercontent.com/macblizzard/hermes-altstore/main/altstore.json",
+  "schemaVersion": 1,
+  "subtitle": "Hermes Agent",
+  "description": "Unsigned builds of the Hermes native client, published automatically from CI.",
+  "iconURL": "https://raw.githubusercontent.com/macblizzard/hermes-altstore/main/icon-512.png",
+  "headerURL": "https://raw.githubusercontent.com/macblizzard/hermes-altstore/main/icon-512.png",
+  "tintColor": "#007CF7",
+  "featuredApps": [
+    "net.corvus.hermes.mobile"
+  ],
+  "apps": [
+    {
+      "name": "Hermes",
+      "bundleIdentifier": "net.corvus.hermes.mobile",
+      "developerName": "macblizzard",
+      "subtitle": "Hermes Agent client",
+      "localizedDescription": "Native client for a self-hosted Hermes Agent gateway.",
+      "iconURL": "https://raw.githubusercontent.com/macblizzard/hermes-altstore/main/icon-512.png",
+      "tintColor": "#007CF7",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.31",
+          "buildVersion": "31",
+          "date": "2026-11-05T20:31:47Z",
+          "localizedDescription": "Bot list home, endless chat with auto-compaction, real settings; opening a conversation works (resume names the bot).",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v31/Hermes-1.31-b31.ipa",
+          "size": 678671,
+          "minOSVersion": "17.0",
+          "sha256": "5931f2a2d0948a41c7fbdb97f435c34b50f6169a9d0f9a2feba1732aca4ac51c"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan the pairing code shown by your Hermes host to connect this device."
+        }
+      }
+    }
+  ],
+  "news": []
+}
