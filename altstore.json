@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.66",
+          "buildVersion": "66",
+          "date": "2026-11-06T09:10:19Z",
+          "localizedDescription": "Remove revoked devices safely, share chat blocks, and search your conversations.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v66/Hermes-1.66-b66.ipa",
+          "size": 1240364,
+          "minOSVersion": "17.0",
+          "sha256": "fa0b48d1a118de6377d8cac76456446bdb2da3b5ce183d36671d485a6fec8dfb"
+        },
+        {
           "version": "1.64",
           "buildVersion": "64",
           "date": "2026-11-06T08:41:25Z",
@@ -62,16 +72,6 @@
           "size": 1190231,
           "minOSVersion": "17.0",
           "sha256": "8faaa1c99b9aa6257000ab7f4edbf7bd644d55c66ca2094b9323cf1b334abd26"
-        },
-        {
-          "version": "1.55",
-          "buildVersion": "55",
-          "date": "2026-11-06T01:12:31Z",
-          "localizedDescription": "Hermes Bots with pin/hide, unread dot, searchable model picker, working bot description, compact attachment menu, and a model chip that names the open bot model.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v55/Hermes-1.55-b55.ipa",
-          "size": 828097,
-          "minOSVersion": "17.0",
-          "sha256": "af3f9274765bdc43c473486c3aa737ab624c174c8e39356254881a643dd68434"
         }
       ],
       "appPermissions": {
