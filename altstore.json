@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.43",
+          "buildVersion": "43",
+          "date": "2026-11-06T00:05:57Z",
+          "localizedDescription": "Long-press a bot for Bot Settings: change that bot model, or pick a robot-faction icon (synced across devices). Attachments: camera, photos and files, held until you send.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v43/Hermes-1.43-b43.ipa",
+          "size": 758159,
+          "minOSVersion": "17.0",
+          "sha256": "c64510f3412dfc8e7729512ef5af9c81ca12bf210d05f212e8a9588321fe1df8"
+        },
+        {
           "version": "1.39",
           "buildVersion": "39",
           "date": "2026-11-05T23:04:27Z",
@@ -62,16 +72,6 @@
           "size": 679288,
           "minOSVersion": "17.0",
           "sha256": "78e32c7f94965ba7406429a3b21857d694fb4097f3a284d4ed274f7ea6b09ce8"
-        },
-        {
-          "version": "1.31",
-          "buildVersion": "31",
-          "date": "2026-11-05T20:31:47Z",
-          "localizedDescription": "Bot list home, endless chat with auto-compaction, real settings; opening a conversation works (resume names the bot).",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v31/Hermes-1.31-b31.ipa",
-          "size": 678671,
-          "minOSVersion": "17.0",
-          "sha256": "5931f2a2d0948a41c7fbdb97f435c34b50f6169a9d0f9a2feba1732aca4ac51c"
         }
       ],
       "appPermissions": {
