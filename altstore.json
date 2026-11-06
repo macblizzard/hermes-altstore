@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.55",
+          "buildVersion": "55",
+          "date": "2026-11-06T01:12:31Z",
+          "localizedDescription": "Hermes Bots with pin/hide, unread dot, searchable model picker, working bot description, compact attachment menu, and a model chip that names the open bot model.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v55/Hermes-1.55-b55.ipa",
+          "size": 828097,
+          "minOSVersion": "17.0",
+          "sha256": "af3f9274765bdc43c473486c3aa737ab624c174c8e39356254881a643dd68434"
+        },
+        {
           "version": "1.48",
           "buildVersion": "48",
           "date": "2026-11-06T00:57:56Z",
@@ -62,16 +72,6 @@
           "size": 690587,
           "minOSVersion": "17.0",
           "sha256": "bd50649dd9d63f10fb25bcda7d9e6651f6704e776a545c7030752df3ff97611b"
-        },
-        {
-          "version": "1.35",
-          "buildVersion": "35",
-          "date": "2026-11-05T21:24:14Z",
-          "localizedDescription": "Tool cards now read the host projection's own fields: the card names the real tool, tapping opens the arguments (and the result for edit tools). Reasoning shows up and stays in the thread after the answer.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v35/Hermes-1.35-b35.ipa",
-          "size": 686598,
-          "minOSVersion": "17.0",
-          "sha256": "f7b18ba7ccbeab5eb62845b165bd41bf492773f04d61a83d2350326c6abd0d74"
         }
       ],
       "appPermissions": {
