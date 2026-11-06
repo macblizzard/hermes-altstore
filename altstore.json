@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.63",
+          "buildVersion": "63",
+          "date": "2026-11-06T07:59:56Z",
+          "localizedDescription": "Select text, read aloud and emoji reactions in chat; tappable links; hidden-bot filter fix and title alignment; working-bot sparks.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v63/Hermes-1.63-b63.ipa",
+          "size": 1204944,
+          "minOSVersion": "17.0",
+          "sha256": "66138c3598d25aa52bb6a4169b0e360687c317e1fe00b52472a40e83cefe89b4"
+        },
+        {
           "version": "1.61",
           "buildVersion": "61",
           "date": "2026-11-06T02:03:16Z",
@@ -62,16 +72,6 @@
           "size": 821653,
           "minOSVersion": "17.0",
           "sha256": "15ce8d42265897dfba8e383f997542816acd7ca10c9e10538f890b6dc68c926d"
-        },
-        {
-          "version": "1.43",
-          "buildVersion": "43",
-          "date": "2026-11-06T00:05:57Z",
-          "localizedDescription": "Long-press a bot for Bot Settings: change that bot model, or pick a robot-faction icon (synced across devices). Attachments: camera, photos and files, held until you send.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v43/Hermes-1.43-b43.ipa",
-          "size": 758159,
-          "minOSVersion": "17.0",
-          "sha256": "c64510f3412dfc8e7729512ef5af9c81ca12bf210d05f212e8a9588321fe1df8"
         }
       ],
       "appPermissions": {
