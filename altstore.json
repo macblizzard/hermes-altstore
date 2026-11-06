@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.94",
+          "buildVersion": "94",
+          "date": "2026-11-06T19:50:13Z",
+          "localizedDescription": "Third line: the conversation's newest message (both apps). Mac: scroll-to-latest appears, microphone beside send, About panel + Settings > About with the build number, the bot's own icon in the chat header.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v94/Hermes-1.94-b94.ipa",
+          "size": 1307483,
+          "minOSVersion": "17.0",
+          "sha256": "2431db2524b99930df31a1f110fa7833bb3e6c56b0776e23c44920879ec1ad6c"
+        },
+        {
           "version": "1.93",
           "buildVersion": "93",
           "date": "2026-11-06T18:52:18Z",
@@ -62,16 +72,6 @@
           "size": 1283307,
           "minOSVersion": "17.0",
           "sha256": "f716591f1ae58347616bb92e270c708d354b059f8fc1108b21083b5a2c820805"
-        },
-        {
-          "version": "1.74",
-          "buildVersion": "74",
-          "date": "2026-11-06T11:46:05Z",
-          "localizedDescription": "Files attach reliably and pending images show thumbnails.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v74/Hermes-1.74-b74.ipa",
-          "size": 1268789,
-          "minOSVersion": "17.0",
-          "sha256": "80a7c8ccb92d38c0b236d8a2a77520a5c2c36546a1aef53f4dd7ae1202abee07"
         }
       ],
       "appPermissions": {
