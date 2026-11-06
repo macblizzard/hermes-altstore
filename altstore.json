@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.64",
+          "buildVersion": "64",
+          "date": "2026-11-06T08:41:25Z",
+          "localizedDescription": "Compact emoji reaction picker and four new original robot icons.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v64/Hermes-1.64-b64.ipa",
+          "size": 1219641,
+          "minOSVersion": "17.0",
+          "sha256": "514231accdee1ef1e94c35406a6cef4f8e6fbca5d7a75ad28754097d478804a2"
+        },
+        {
           "version": "1.63",
           "buildVersion": "63",
           "date": "2026-11-06T07:59:56Z",
@@ -62,16 +72,6 @@
           "size": 828097,
           "minOSVersion": "17.0",
           "sha256": "af3f9274765bdc43c473486c3aa737ab624c174c8e39356254881a643dd68434"
-        },
-        {
-          "version": "1.48",
-          "buildVersion": "48",
-          "date": "2026-11-06T00:57:56Z",
-          "localizedDescription": "Hermes Bots list: pin and hide bots from long-press, ordered by last message. Model chip now shows the open bot own model.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v48/Hermes-1.48-b48.ipa",
-          "size": 821653,
-          "minOSVersion": "17.0",
-          "sha256": "15ce8d42265897dfba8e383f997542816acd7ca10c9e10538f890b6dc68c926d"
         }
       ],
       "appPermissions": {
