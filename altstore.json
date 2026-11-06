@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.95",
+          "buildVersion": "95",
+          "date": "2026-11-06T23:43:32Z",
+          "localizedDescription": "Bot portrait in the chat header, About/Settings build info, mic inside the composer, plus the window/\u641c\u7d22/sidebar polish.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v95/Hermes-1.95-b95.ipa",
+          "size": 1307485,
+          "minOSVersion": "17.0",
+          "sha256": "0ec1e59b549a23d68df0f76fb2f93415186bc1ecb0eece61f22f5392a6d7d678"
+        },
+        {
           "version": "1.94",
           "buildVersion": "94",
           "date": "2026-11-06T19:50:13Z",
@@ -62,16 +72,6 @@
           "size": 1283306,
           "minOSVersion": "17.0",
           "sha256": "289f232eba16451a26eb1662e74d73dd99af6062a0db4dbb726ff575aafc374a"
-        },
-        {
-          "version": "1.84",
-          "buildVersion": "84",
-          "date": "2026-11-06T16:22:25Z",
-          "localizedDescription": "Bots-left/chat-right layout, UI polish pass, and one shared conversation per bot across iPhone and Mac.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v84/Hermes-1.84-b84.ipa",
-          "size": 1283307,
-          "minOSVersion": "17.0",
-          "sha256": "f716591f1ae58347616bb92e270c708d354b059f8fc1108b21083b5a2c820805"
         }
       ],
       "appPermissions": {
