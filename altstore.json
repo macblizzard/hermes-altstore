@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.74",
+          "buildVersion": "74",
+          "date": "2026-11-06T11:46:05Z",
+          "localizedDescription": "Files attach reliably and pending images show thumbnails.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v74/Hermes-1.74-b74.ipa",
+          "size": 1268789,
+          "minOSVersion": "17.0",
+          "sha256": "80a7c8ccb92d38c0b236d8a2a77520a5c2c36546a1aef53f4dd7ae1202abee07"
+        },
+        {
           "version": "1.71",
           "buildVersion": "71",
           "date": "2026-11-06T10:41:14Z",
@@ -62,16 +72,6 @@
           "size": 1204944,
           "minOSVersion": "17.0",
           "sha256": "66138c3598d25aa52bb6a4169b0e360687c317e1fe00b52472a40e83cefe89b4"
-        },
-        {
-          "version": "1.61",
-          "buildVersion": "61",
-          "date": "2026-11-06T02:03:16Z",
-          "localizedDescription": "1.61 \u2014 markdown tables rendered as grids, fragment text selection, real app icons, macOS parity (pin, hide, unread, per-bot settings, attachments).",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v61/Hermes-1.61-b61.ipa",
-          "size": 1190234,
-          "minOSVersion": "17.0",
-          "sha256": "cd154daac4efd58ed0a801612b2ec7cadab0a9a1992a8a922c627ce1b9908cc5"
         }
       ],
       "appPermissions": {
