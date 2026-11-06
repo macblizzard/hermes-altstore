@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.61",
+          "buildVersion": "61",
+          "date": "2026-11-06T02:03:16Z",
+          "localizedDescription": "1.61 \u2014 markdown tables rendered as grids, fragment text selection, real app icons, macOS parity (pin, hide, unread, per-bot settings, attachments).",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v61/Hermes-1.61-b61.ipa",
+          "size": 1190234,
+          "minOSVersion": "17.0",
+          "sha256": "cd154daac4efd58ed0a801612b2ec7cadab0a9a1992a8a922c627ce1b9908cc5"
+        },
+        {
           "version": "1.60",
           "buildVersion": "60",
           "date": "2026-11-06T01:51:56Z",
@@ -62,16 +72,6 @@
           "size": 758159,
           "minOSVersion": "17.0",
           "sha256": "c64510f3412dfc8e7729512ef5af9c81ca12bf210d05f212e8a9588321fe1df8"
-        },
-        {
-          "version": "1.39",
-          "buildVersion": "39",
-          "date": "2026-11-05T23:04:27Z",
-          "localizedDescription": "Last-opened bot moves to top with green indicator; keyboard opening scrolls to the latest message.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v39/Hermes-1.39-b39.ipa",
-          "size": 673646,
-          "minOSVersion": "17.0",
-          "sha256": "f23ca98f711404a13d94e904a362486d64aab182e277fb60bd00a4e899628343"
         }
       ],
       "appPermissions": {
