@@ -26,8 +26,8 @@
         {
           "version": "1.48",
           "buildVersion": "48",
-          "date": "2026-11-06T00:40:11Z",
-          "localizedDescription": "Voice (dictation + spoken replies), pin bots to the top, per-bot description stored on the host, and the cancelled-open banner fix.",
+          "date": "2026-11-06T00:57:56Z",
+          "localizedDescription": "Hermes Bots list: pin and hide bots from long-press, ordered by last message. Model chip now shows the open bot own model.",
           "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v48/Hermes-1.48-b48.ipa",
           "size": 821653,
           "minOSVersion": "17.0",
