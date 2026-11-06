@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.93",
+          "buildVersion": "93",
+          "date": "2026-11-06T18:52:18Z",
+          "localizedDescription": "Bot list: a third line with the conversation's newest message, on Mac and iPhone. A working scroll-to-latest on both. Mac: clickable links, and Shift+Return breaks the line at the caret.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v93/Hermes-1.93-b93.ipa",
+          "size": 1305064,
+          "minOSVersion": "17.0",
+          "sha256": "7de0fa7e880c77a56510fdd99305f9acf53f388bce7727a1f0bf19d81e1667e6"
+        },
+        {
           "version": "1.91",
           "buildVersion": "91",
           "date": "2026-11-06T18:13:51Z",
@@ -62,16 +72,6 @@
           "size": 1268789,
           "minOSVersion": "17.0",
           "sha256": "80a7c8ccb92d38c0b236d8a2a77520a5c2c36546a1aef53f4dd7ae1202abee07"
-        },
-        {
-          "version": "1.71",
-          "buildVersion": "71",
-          "date": "2026-11-06T10:41:14Z",
-          "localizedDescription": "Attachments: anchored menu, photo downscaling, working file picker, 8 MB ceiling.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v71/Hermes-1.71-b71.ipa",
-          "size": 1263519,
-          "minOSVersion": "17.0",
-          "sha256": "0f48ef2d121befd57c64dc4e69429c5aaa5c8cf19d78e3d267288464e5d8215d"
         }
       ],
       "appPermissions": {
