@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.48",
+          "buildVersion": "48",
+          "date": "2026-11-06T00:40:11Z",
+          "localizedDescription": "Voice (dictation + spoken replies), pin bots to the top, per-bot description stored on the host, and the cancelled-open banner fix.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v48/Hermes-1.48-b48.ipa",
+          "size": 821653,
+          "minOSVersion": "17.0",
+          "sha256": "15ce8d42265897dfba8e383f997542816acd7ca10c9e10538f890b6dc68c926d"
+        },
+        {
           "version": "1.43",
           "buildVersion": "43",
           "date": "2026-11-06T00:05:57Z",
@@ -62,16 +72,6 @@
           "size": 686598,
           "minOSVersion": "17.0",
           "sha256": "f7b18ba7ccbeab5eb62845b165bd41bf492773f04d61a83d2350326c6abd0d74"
-        },
-        {
-          "version": "1.33",
-          "buildVersion": "33",
-          "date": "2026-11-05T20:45:22Z",
-          "localizedDescription": "Tool calls stay in the thread: a turn's tool cards become transcript rows above the answer, so they no longer slide under the reply or vanish on the next resume.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v33/Hermes-1.33-b33.ipa",
-          "size": 679288,
-          "minOSVersion": "17.0",
-          "sha256": "78e32c7f94965ba7406429a3b21857d694fb4097f3a284d4ed274f7ea6b09ce8"
         }
       ],
       "appPermissions": {
