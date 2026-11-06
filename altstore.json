@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.71",
+          "buildVersion": "71",
+          "date": "2026-11-06T10:41:14Z",
+          "localizedDescription": "Attachments: anchored menu, photo downscaling, working file picker, 8 MB ceiling.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v71/Hermes-1.71-b71.ipa",
+          "size": 1263519,
+          "minOSVersion": "17.0",
+          "sha256": "0f48ef2d121befd57c64dc4e69429c5aaa5c8cf19d78e3d267288464e5d8215d"
+        },
+        {
           "version": "1.66",
           "buildVersion": "66",
           "date": "2026-11-06T09:10:19Z",
@@ -62,16 +72,6 @@
           "size": 1190234,
           "minOSVersion": "17.0",
           "sha256": "cd154daac4efd58ed0a801612b2ec7cadab0a9a1992a8a922c627ce1b9908cc5"
-        },
-        {
-          "version": "1.60",
-          "buildVersion": "60",
-          "date": "2026-11-06T01:51:56Z",
-          "localizedDescription": "Markdown tables render as grids, fragment text selection, real app icon, searchable model picker, unread dot, pin/hide, compact attachment menu.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v60/Hermes-1.60-b60.ipa",
-          "size": 1190231,
-          "minOSVersion": "17.0",
-          "sha256": "8faaa1c99b9aa6257000ab7f4edbf7bd644d55c66ca2094b9323cf1b334abd26"
         }
       ],
       "appPermissions": {
