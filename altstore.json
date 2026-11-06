@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.91",
+          "buildVersion": "91",
+          "date": "2026-11-06T18:13:51Z",
+          "localizedDescription": "Composer: Shift+Return breaks the line; the attachment menu anchors on the paperclip. Header magnifier searches the conversation; the palette keeps its highlight in view. Read aloud under every reply. Bot rows gain a third line: the newest message.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v91/Hermes-1.91-b91.ipa",
+          "size": 1293945,
+          "minOSVersion": "17.0",
+          "sha256": "4907a1aa0a17200a87d5adfdd8f0efd479b1a6c9469fd9a20272e97c152c9c7d"
+        },
+        {
           "version": "1.88",
           "buildVersion": "88",
           "date": "2026-11-06T17:25:21Z",
@@ -62,16 +72,6 @@
           "size": 1263519,
           "minOSVersion": "17.0",
           "sha256": "0f48ef2d121befd57c64dc4e69429c5aaa5c8cf19d78e3d267288464e5d8215d"
-        },
-        {
-          "version": "1.66",
-          "buildVersion": "66",
-          "date": "2026-11-06T09:10:19Z",
-          "localizedDescription": "Remove revoked devices safely, share chat blocks, and search your conversations.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v66/Hermes-1.66-b66.ipa",
-          "size": 1240364,
-          "minOSVersion": "17.0",
-          "sha256": "fa0b48d1a118de6377d8cac76456446bdb2da3b5ce183d36671d485a6fec8dfb"
         }
       ],
       "appPermissions": {
