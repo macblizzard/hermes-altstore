@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.60",
+          "buildVersion": "60",
+          "date": "2026-11-06T01:51:56Z",
+          "localizedDescription": "Markdown tables render as grids, fragment text selection, real app icon, searchable model picker, unread dot, pin/hide, compact attachment menu.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v60/Hermes-1.60-b60.ipa",
+          "size": 1190231,
+          "minOSVersion": "17.0",
+          "sha256": "8faaa1c99b9aa6257000ab7f4edbf7bd644d55c66ca2094b9323cf1b334abd26"
+        },
+        {
           "version": "1.55",
           "buildVersion": "55",
           "date": "2026-11-06T01:12:31Z",
@@ -62,16 +72,6 @@
           "size": 673646,
           "minOSVersion": "17.0",
           "sha256": "f23ca98f711404a13d94e904a362486d64aab182e277fb60bd00a4e899628343"
-        },
-        {
-          "version": "1.36",
-          "buildVersion": "36",
-          "date": "2026-11-05T21:36:51Z",
-          "localizedDescription": "Fix live replies disappearing after restarting or foregrounding the app: cancelling an observer no longer permanently ends the shared event feed. Regression tests cover repeated start and stop/start.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v36/Hermes-1.36-b36.ipa",
-          "size": 690587,
-          "minOSVersion": "17.0",
-          "sha256": "bd50649dd9d63f10fb25bcda7d9e6651f6704e776a545c7030752df3ff97611b"
         }
       ],
       "appPermissions": {
