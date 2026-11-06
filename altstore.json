@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.84",
+          "buildVersion": "84",
+          "date": "2026-11-06T16:22:25Z",
+          "localizedDescription": "Bots-left/chat-right layout, UI polish pass, and one shared conversation per bot across iPhone and Mac.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v84/Hermes-1.84-b84.ipa",
+          "size": 1283307,
+          "minOSVersion": "17.0",
+          "sha256": "f716591f1ae58347616bb92e270c708d354b059f8fc1108b21083b5a2c820805"
+        },
+        {
           "version": "1.74",
           "buildVersion": "74",
           "date": "2026-11-06T11:46:05Z",
@@ -62,16 +72,6 @@
           "size": 1219641,
           "minOSVersion": "17.0",
           "sha256": "514231accdee1ef1e94c35406a6cef4f8e6fbca5d7a75ad28754097d478804a2"
-        },
-        {
-          "version": "1.63",
-          "buildVersion": "63",
-          "date": "2026-11-06T07:59:56Z",
-          "localizedDescription": "Select text, read aloud and emoji reactions in chat; tappable links; hidden-bot filter fix and title alignment; working-bot sparks.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v63/Hermes-1.63-b63.ipa",
-          "size": 1204944,
-          "minOSVersion": "17.0",
-          "sha256": "66138c3598d25aa52bb6a4169b0e360687c317e1fe00b52472a40e83cefe89b4"
         }
       ],
       "appPermissions": {
