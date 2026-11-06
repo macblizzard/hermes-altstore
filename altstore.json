@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.88",
+          "buildVersion": "88",
+          "date": "2026-11-06T17:25:21Z",
+          "localizedDescription": "Flush top edge, inline bot search, taller composer, scroll-to-latest button, no sidebar footer.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v88/Hermes-1.88-b88.ipa",
+          "size": 1283306,
+          "minOSVersion": "17.0",
+          "sha256": "289f232eba16451a26eb1662e74d73dd99af6062a0db4dbb726ff575aafc374a"
+        },
+        {
           "version": "1.84",
           "buildVersion": "84",
           "date": "2026-11-06T16:22:25Z",
@@ -62,16 +72,6 @@
           "size": 1240364,
           "minOSVersion": "17.0",
           "sha256": "fa0b48d1a118de6377d8cac76456446bdb2da3b5ce183d36671d485a6fec8dfb"
-        },
-        {
-          "version": "1.64",
-          "buildVersion": "64",
-          "date": "2026-11-06T08:41:25Z",
-          "localizedDescription": "Compact emoji reaction picker and four new original robot icons.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v64/Hermes-1.64-b64.ipa",
-          "size": 1219641,
-          "minOSVersion": "17.0",
-          "sha256": "514231accdee1ef1e94c35406a6cef4f8e6fbca5d7a75ad28754097d478804a2"
         }
       ],
       "appPermissions": {
