@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.101",
+          "buildVersion": "101",
+          "date": "2026-11-07T17:38:45Z",
+          "localizedDescription": "Hermey 0.1.101. Tool cards: expanded rows show the tool's real output (no JSON, no escaped newlines), the header names the call, and a non-zero exit is marked failed.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v101/Hermes-0.1.101-b101.ipa",
+          "size": 1307715,
+          "minOSVersion": "17.0",
+          "sha256": "48cad756def24f6868f62c37e290c566f77b684e91cefb1b0ecad3b5c9c765ed"
+        },
+        {
           "version": "0.1.100",
           "buildVersion": "100",
           "date": "2026-11-07T16:48:59Z",
@@ -62,16 +72,6 @@
           "size": 1307485,
           "minOSVersion": "17.0",
           "sha256": "0ec1e59b549a23d68df0f76fb2f93415186bc1ecb0eece61f22f5392a6d7d678"
-        },
-        {
-          "version": "1.94",
-          "buildVersion": "94",
-          "date": "2026-11-06T19:50:13Z",
-          "localizedDescription": "Third line: the conversation's newest message (both apps). Mac: scroll-to-latest appears, microphone beside send, About panel + Settings > About with the build number, the bot's own icon in the chat header.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v94/Hermes-1.94-b94.ipa",
-          "size": 1307483,
-          "minOSVersion": "17.0",
-          "sha256": "2431db2524b99930df31a1f110fa7833bb3e6c56b0776e23c44920879ec1ad6c"
         }
       ],
       "appPermissions": {
