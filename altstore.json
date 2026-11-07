@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.110",
+          "buildVersion": "110",
+          "date": "2026-11-07T19:52:31Z",
+          "localizedDescription": "Hermey 0.1.110. The duplicate stop button in the chat header is gone (the composer's own button still stops the turn), and running tool cards show their command instead of JSON.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v110/Hermes-0.1.110-b110.ipa",
+          "size": 1342206,
+          "minOSVersion": "17.0",
+          "sha256": "f716fc32e0bee8936ef8053471339ff4a1c910581cdef650b915adeda2202c25"
+        },
+        {
           "version": "0.1.109",
           "buildVersion": "109",
           "date": "2026-11-07T19:41:24Z",
@@ -62,16 +72,6 @@
           "size": 1337496,
           "minOSVersion": "17.0",
           "sha256": "de6a7e266d66dd83e682264cc11abf826c7bb50ed0d1c2e7cd1bb936ab484ada"
-        },
-        {
-          "version": "0.1.105",
-          "buildVersion": "105",
-          "date": "2026-11-07T18:30:04Z",
-          "localizedDescription": "Hermey 0.1.103. Attachments: pick several photos or files at once (up to 8), and sent images now show as thumbnails in the chat, including after a relaunch.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v105/Hermes-0.1.105-b105.ipa",
-          "size": 1332812,
-          "minOSVersion": "17.0",
-          "sha256": "c8fa5261a0864b3bb216f6a6ce27173051572d3f4ea66d0961f0cd1668e5e0d5"
         }
       ],
       "appPermissions": {
