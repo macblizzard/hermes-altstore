@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.100",
+          "buildVersion": "100",
+          "date": "2026-11-07T16:48:59Z",
+          "localizedDescription": "Hermey 0.1. An expanded terminal card shows the command as typed, not its JSON envelope.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v100/Hermes-0.1.100-b100.ipa",
+          "size": 1302017,
+          "minOSVersion": "17.0",
+          "sha256": "dfc929d19506f789e806c56680e300203190561605131f57388749de0578d50c"
+        },
+        {
           "version": "0.1.99",
           "buildVersion": "99",
           "date": "2026-11-07T15:38:19Z",
@@ -62,16 +72,6 @@
           "size": 1307483,
           "minOSVersion": "17.0",
           "sha256": "2431db2524b99930df31a1f110fa7833bb3e6c56b0776e23c44920879ec1ad6c"
-        },
-        {
-          "version": "1.93",
-          "buildVersion": "93",
-          "date": "2026-11-06T18:52:18Z",
-          "localizedDescription": "Bot list: a third line with the conversation's newest message, on Mac and iPhone. A working scroll-to-latest on both. Mac: clickable links, and Shift+Return breaks the line at the caret.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v93/Hermes-1.93-b93.ipa",
-          "size": 1305064,
-          "minOSVersion": "17.0",
-          "sha256": "7de0fa7e880c77a56510fdd99305f9acf53f388bce7727a1f0bf19d81e1667e6"
         }
       ],
       "appPermissions": {
