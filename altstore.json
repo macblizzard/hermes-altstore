@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.109",
+          "buildVersion": "109",
+          "date": "2026-11-07T19:41:24Z",
+          "localizedDescription": "Hermey 0.1.109. Expanding a terminal call shows the command itself, not its JSON argument object.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v109/Hermes-0.1.109-b109.ipa",
+          "size": 1342994,
+          "minOSVersion": "17.0",
+          "sha256": "1b5f75917875a50ae17c9ea95fe992d76a8d9ecf91f3fcbc03491d0cb590e234"
+        },
+        {
           "version": "0.1.108",
           "buildVersion": "108",
           "date": "2026-11-07T19:31:18Z",
@@ -62,16 +72,6 @@
           "size": 1332812,
           "minOSVersion": "17.0",
           "sha256": "c8fa5261a0864b3bb216f6a6ce27173051572d3f4ea66d0961f0cd1668e5e0d5"
-        },
-        {
-          "version": "0.1.102",
-          "buildVersion": "102",
-          "date": "2026-11-07T18:06:55Z",
-          "localizedDescription": "Hermey 0.1.102. Search results render as text with a count, and a file's line numbers sit in a gutter instead of inside the prose.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v102/Hermes-0.1.102-b102.ipa",
-          "size": 1313648,
-          "minOSVersion": "17.0",
-          "sha256": "73ba93f0f60ed20d9e5686ef4b3b086e7fc07234be4986fb241500724a65a966"
         }
       ],
       "appPermissions": {
