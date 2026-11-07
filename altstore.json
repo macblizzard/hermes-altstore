@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.113",
+          "buildVersion": "113",
+          "date": "2026-11-07T20:39:21Z",
+          "localizedDescription": "Hermey 0.1.113. Desktop: links in replies open again, the composer takes pasted screenshots and dropped files, the field and its controls share one line, and the attach menu no longer draws a focus ring.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v113/Hermes-0.1.113-b113.ipa",
+          "size": 1354840,
+          "minOSVersion": "17.0",
+          "sha256": "86f0e5c7c31b6a89ce3fd6a3f28868d79e61d122fc8d9f320aad65f5e0bc60d9"
+        },
+        {
           "version": "0.1.112",
           "buildVersion": "112",
           "date": "2026-11-07T20:21:31Z",
@@ -62,16 +72,6 @@
           "size": 1342994,
           "minOSVersion": "17.0",
           "sha256": "1b5f75917875a50ae17c9ea95fe992d76a8d9ecf91f3fcbc03491d0cb590e234"
-        },
-        {
-          "version": "0.1.108",
-          "buildVersion": "108",
-          "date": "2026-11-07T19:31:18Z",
-          "localizedDescription": "Hermey 0.1.108. Picking a photo no longer shows a false error, and sent pictures show as thumbnails in the chat instead of @image: paths.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v108/Hermes-0.1.108-b108.ipa",
-          "size": 1343061,
-          "minOSVersion": "17.0",
-          "sha256": "ca86ed5624e7498d7241ad86fe627f92ca8aab784b7c14a2440e605f3d960a5c"
         }
       ],
       "appPermissions": {
