@@ -1,5 +1,5 @@
 {
-  "name": "Hermes",
+  "name": "Hermey",
   "identifier": "net.corvus.hermes.source",
   "sourceURL": "https://raw.githubusercontent.com/macblizzard/hermes-altstore/main/altstore.json",
   "schemaVersion": 1,
@@ -13,7 +13,7 @@
   ],
   "apps": [
     {
-      "name": "Hermes",
+      "name": "Hermey",
       "bundleIdentifier": "net.corvus.hermes.mobile",
       "developerName": "macblizzard",
       "subtitle": "Hermes Agent client",
@@ -23,6 +23,16 @@
       "category": "utilities",
       "screenshots": [],
       "versions": [
+        {
+          "version": "0.1.98",
+          "buildVersion": "98",
+          "date": "2026-11-07T13:31:59Z",
+          "localizedDescription": "Hermey 0.1. Transcript opens at the end; scroll-to-latest appears; menu has Compact + Reset; one microphone in the composer; composer follows the caret; window transparency slider.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v98/Hermes-0.1.98-b98.ipa",
+          "size": 1304673,
+          "minOSVersion": "17.0",
+          "sha256": "f291bbc6968124bca36923459d57aa7c0a81306162480b3fa54c1d7be14432b7"
+        },
         {
           "version": "1.95",
           "buildVersion": "95",
@@ -62,16 +72,6 @@
           "size": 1293945,
           "minOSVersion": "17.0",
           "sha256": "4907a1aa0a17200a87d5adfdd8f0efd479b1a6c9469fd9a20272e97c152c9c7d"
-        },
-        {
-          "version": "1.88",
-          "buildVersion": "88",
-          "date": "2026-11-06T17:25:21Z",
-          "localizedDescription": "Flush top edge, inline bot search, taller composer, scroll-to-latest button, no sidebar footer.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v88/Hermes-1.88-b88.ipa",
-          "size": 1283306,
-          "minOSVersion": "17.0",
-          "sha256": "289f232eba16451a26eb1662e74d73dd99af6062a0db4dbb726ff575aafc374a"
         }
       ],
       "appPermissions": {
