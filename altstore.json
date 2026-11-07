@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.99",
+          "buildVersion": "99",
+          "date": "2026-11-07T15:38:19Z",
+          "localizedDescription": "Hermey 0.1. The leftover speaker glyph above the composer is gone: 'Speak replies aloud' is a labelled switch in the conversation menu.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v99/Hermes-0.1.99-b99.ipa",
+          "size": 1301219,
+          "minOSVersion": "17.0",
+          "sha256": "928d1cbd7e759e01abde3beef24590520dd37295974ea2d8279db5e594005cef"
+        },
+        {
           "version": "0.1.98",
           "buildVersion": "98",
           "date": "2026-11-07T13:31:59Z",
@@ -62,16 +72,6 @@
           "size": 1305064,
           "minOSVersion": "17.0",
           "sha256": "7de0fa7e880c77a56510fdd99305f9acf53f388bce7727a1f0bf19d81e1667e6"
-        },
-        {
-          "version": "1.91",
-          "buildVersion": "91",
-          "date": "2026-11-06T18:13:51Z",
-          "localizedDescription": "Composer: Shift+Return breaks the line; the attachment menu anchors on the paperclip. Header magnifier searches the conversation; the palette keeps its highlight in view. Read aloud under every reply. Bot rows gain a third line: the newest message.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v91/Hermes-1.91-b91.ipa",
-          "size": 1293945,
-          "minOSVersion": "17.0",
-          "sha256": "4907a1aa0a17200a87d5adfdd8f0efd479b1a6c9469fd9a20272e97c152c9c7d"
         }
       ],
       "appPermissions": {
