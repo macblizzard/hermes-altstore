@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.105",
+          "buildVersion": "105",
+          "date": "2026-11-07T18:30:04Z",
+          "localizedDescription": "Hermey 0.1.103. Attachments: pick several photos or files at once (up to 8), and sent images now show as thumbnails in the chat, including after a relaunch.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v105/Hermes-0.1.105-b105.ipa",
+          "size": 1332812,
+          "minOSVersion": "17.0",
+          "sha256": "c8fa5261a0864b3bb216f6a6ce27173051572d3f4ea66d0961f0cd1668e5e0d5"
+        },
+        {
           "version": "0.1.102",
           "buildVersion": "102",
           "date": "2026-11-07T18:06:55Z",
@@ -62,16 +72,6 @@
           "size": 1301219,
           "minOSVersion": "17.0",
           "sha256": "928d1cbd7e759e01abde3beef24590520dd37295974ea2d8279db5e594005cef"
-        },
-        {
-          "version": "0.1.98",
-          "buildVersion": "98",
-          "date": "2026-11-07T13:31:59Z",
-          "localizedDescription": "Hermey 0.1. Transcript opens at the end; scroll-to-latest appears; menu has Compact + Reset; one microphone in the composer; composer follows the caret; window transparency slider.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v98/Hermes-0.1.98-b98.ipa",
-          "size": 1304673,
-          "minOSVersion": "17.0",
-          "sha256": "f291bbc6968124bca36923459d57aa7c0a81306162480b3fa54c1d7be14432b7"
         }
       ],
       "appPermissions": {
