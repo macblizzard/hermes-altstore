@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.107",
+          "buildVersion": "107",
+          "date": "2026-11-07T19:19:03Z",
+          "localizedDescription": "Hermey 0.1. The line I write before starting a tool call now shows in the chat, before the tool cards, instead of being dropped.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v107/Hermes-0.1.107-b107.ipa",
+          "size": 1338880,
+          "minOSVersion": "17.0",
+          "sha256": "e353ba7cc72797e172906032980cb532b565e4682b58c230acd3ba50ecfe8fad"
+        },
+        {
           "version": "0.1.106",
           "buildVersion": "106",
           "date": "2026-11-07T18:49:55Z",
@@ -62,16 +72,6 @@
           "size": 1307715,
           "minOSVersion": "17.0",
           "sha256": "48cad756def24f6868f62c37e290c566f77b684e91cefb1b0ecad3b5c9c765ed"
-        },
-        {
-          "version": "0.1.100",
-          "buildVersion": "100",
-          "date": "2026-11-07T16:48:59Z",
-          "localizedDescription": "Hermey 0.1. An expanded terminal card shows the command as typed, not its JSON envelope.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v100/Hermes-0.1.100-b100.ipa",
-          "size": 1302017,
-          "minOSVersion": "17.0",
-          "sha256": "dfc929d19506f789e806c56680e300203190561605131f57388749de0578d50c"
         }
       ],
       "appPermissions": {
