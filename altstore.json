@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.108",
+          "buildVersion": "108",
+          "date": "2026-11-07T19:31:18Z",
+          "localizedDescription": "Hermey 0.1.108. Picking a photo no longer shows a false error, and sent pictures show as thumbnails in the chat instead of @image: paths.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v108/Hermes-0.1.108-b108.ipa",
+          "size": 1343061,
+          "minOSVersion": "17.0",
+          "sha256": "ca86ed5624e7498d7241ad86fe627f92ca8aab784b7c14a2440e605f3d960a5c"
+        },
+        {
           "version": "0.1.107",
           "buildVersion": "107",
           "date": "2026-11-07T19:19:03Z",
@@ -62,16 +72,6 @@
           "size": 1313648,
           "minOSVersion": "17.0",
           "sha256": "73ba93f0f60ed20d9e5686ef4b3b086e7fc07234be4986fb241500724a65a966"
-        },
-        {
-          "version": "0.1.101",
-          "buildVersion": "101",
-          "date": "2026-11-07T17:38:45Z",
-          "localizedDescription": "Hermey 0.1.101. Tool cards: expanded rows show the tool's real output (no JSON, no escaped newlines), the header names the call, and a non-zero exit is marked failed.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v101/Hermes-0.1.101-b101.ipa",
-          "size": 1307715,
-          "minOSVersion": "17.0",
-          "sha256": "48cad756def24f6868f62c37e290c566f77b684e91cefb1b0ecad3b5c9c765ed"
         }
       ],
       "appPermissions": {
