@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.112",
+          "buildVersion": "112",
+          "date": "2026-11-07T20:21:31Z",
+          "localizedDescription": "Hermey 0.1.112. Sent pictures now come back from the host, so thumbnails survive a relaunch, a reinstall, or being sent from your other device.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v112/Hermes-0.1.112-b112.ipa",
+          "size": 1355591,
+          "minOSVersion": "17.0",
+          "sha256": "544460e87a1f98af0fb4e98a2f765fb34f110320fc85c9dec20a6104d8cec1ae"
+        },
+        {
           "version": "0.1.111",
           "buildVersion": "111",
           "date": "2026-11-07T20:05:59Z",
@@ -62,16 +72,6 @@
           "size": 1343061,
           "minOSVersion": "17.0",
           "sha256": "ca86ed5624e7498d7241ad86fe627f92ca8aab784b7c14a2440e605f3d960a5c"
-        },
-        {
-          "version": "0.1.107",
-          "buildVersion": "107",
-          "date": "2026-11-07T19:19:03Z",
-          "localizedDescription": "Hermey 0.1. The line I write before starting a tool call now shows in the chat, before the tool cards, instead of being dropped.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v107/Hermes-0.1.107-b107.ipa",
-          "size": 1338880,
-          "minOSVersion": "17.0",
-          "sha256": "e353ba7cc72797e172906032980cb532b565e4682b58c230acd3ba50ecfe8fad"
         }
       ],
       "appPermissions": {
