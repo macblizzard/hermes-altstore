@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.102",
+          "buildVersion": "102",
+          "date": "2026-11-07T18:06:55Z",
+          "localizedDescription": "Hermey 0.1.102. Search results render as text with a count, and a file's line numbers sit in a gutter instead of inside the prose.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v102/Hermes-0.1.102-b102.ipa",
+          "size": 1313648,
+          "minOSVersion": "17.0",
+          "sha256": "73ba93f0f60ed20d9e5686ef4b3b086e7fc07234be4986fb241500724a65a966"
+        },
+        {
           "version": "0.1.101",
           "buildVersion": "101",
           "date": "2026-11-07T17:38:45Z",
@@ -62,16 +72,6 @@
           "size": 1304673,
           "minOSVersion": "17.0",
           "sha256": "f291bbc6968124bca36923459d57aa7c0a81306162480b3fa54c1d7be14432b7"
-        },
-        {
-          "version": "1.95",
-          "buildVersion": "95",
-          "date": "2026-11-06T23:43:32Z",
-          "localizedDescription": "Bot portrait in the chat header, About/Settings build info, mic inside the composer, plus the window/\u641c\u7d22/sidebar polish.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v95/Hermes-1.95-b95.ipa",
-          "size": 1307485,
-          "minOSVersion": "17.0",
-          "sha256": "0ec1e59b549a23d68df0f76fb2f93415186bc1ecb0eece61f22f5392a6d7d678"
         }
       ],
       "appPermissions": {
