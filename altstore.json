@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.106",
+          "buildVersion": "106",
+          "date": "2026-11-07T18:49:55Z",
+          "localizedDescription": "Hermey 0.1. Every message shows when it was sent \u2014 a clock for today, 'Yesterday' or a date for older rows.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v106/Hermes-0.1.106-b106.ipa",
+          "size": 1337496,
+          "minOSVersion": "17.0",
+          "sha256": "de6a7e266d66dd83e682264cc11abf826c7bb50ed0d1c2e7cd1bb936ab484ada"
+        },
+        {
           "version": "0.1.105",
           "buildVersion": "105",
           "date": "2026-11-07T18:30:04Z",
@@ -62,16 +72,6 @@
           "size": 1302017,
           "minOSVersion": "17.0",
           "sha256": "dfc929d19506f789e806c56680e300203190561605131f57388749de0578d50c"
-        },
-        {
-          "version": "0.1.99",
-          "buildVersion": "99",
-          "date": "2026-11-07T15:38:19Z",
-          "localizedDescription": "Hermey 0.1. The leftover speaker glyph above the composer is gone: 'Speak replies aloud' is a labelled switch in the conversation menu.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v99/Hermes-0.1.99-b99.ipa",
-          "size": 1301219,
-          "minOSVersion": "17.0",
-          "sha256": "928d1cbd7e759e01abde3beef24590520dd37295974ea2d8279db5e594005cef"
         }
       ],
       "appPermissions": {
