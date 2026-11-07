@@ -24,6 +24,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.111",
+          "buildVersion": "111",
+          "date": "2026-11-07T20:05:59Z",
+          "localizedDescription": "Hermey 0.1.111. Sent photos now keep their thumbnails after closing and reopening the app \u2014 the picture is cached under the host's own file name and matched to the message exactly.",
+          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v111/Hermes-0.1.111-b111.ipa",
+          "size": 1348993,
+          "minOSVersion": "17.0",
+          "sha256": "1f62dd39ab5f59d07303c8fd2d00cffa5229132ab0afbf98a961018b3abea674"
+        },
+        {
           "version": "0.1.110",
           "buildVersion": "110",
           "date": "2026-11-07T19:52:31Z",
@@ -62,16 +72,6 @@
           "size": 1338880,
           "minOSVersion": "17.0",
           "sha256": "e353ba7cc72797e172906032980cb532b565e4682b58c230acd3ba50ecfe8fad"
-        },
-        {
-          "version": "0.1.106",
-          "buildVersion": "106",
-          "date": "2026-11-07T18:49:55Z",
-          "localizedDescription": "Hermey 0.1. Every message shows when it was sent \u2014 a clock for today, 'Yesterday' or a date for older rows.",
-          "downloadURL": "https://github.com/macblizzard/hermes-altstore/releases/download/v106/Hermes-0.1.106-b106.ipa",
-          "size": 1337496,
-          "minOSVersion": "17.0",
-          "sha256": "de6a7e266d66dd83e682264cc11abf826c7bb50ed0d1c2e7cd1bb936ab484ada"
         }
       ],
       "appPermissions": {
